@@ -1,4 +1,3 @@
-from asyncore import poll
 import paho.mqtt.client as mqtt
 from poller import Poller
 from players import VLCMediaPlayer
